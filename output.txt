@@ -1,6 +1,6 @@
-mono /tmp/rOawc4AuoK.exe
 For 30 EUR, the available combinations are :- 
 3 x 10 EUR
+
 For 50 EUR, the available combinations are :- 
 5 x 10 EUR
 1 x 50 EUR
